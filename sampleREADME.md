@@ -1,7 +1,6 @@
-function generateREADME(answers) {
-return `
 
-# ${answers.projTitle}
+
+# b
 
 ## Table of Contents
 * [Description](#Description)
@@ -12,26 +11,22 @@ return `
 * [Questions?](#Questions?)
 
 ## Description
-${answers.projDescription}
+bb
 
 ## Installation Instructions
-${answers.installInstruct}
+bbb
 
 ## Usage Information
-${answers.usageInfo}
+bbbb
 
 ## Contributions
-${answers.contributions}
+bbbbb
 
 ## Testing
-${answers.test}
+bbbbbb
 
 ## Questions?
 Contact the author for further inquiries!<br>
-Github link: (https://github.com/${answers.github.trim().toLowerCase()})<br>
-Email: ${answers.email}
+Github link: (https://github.com/bbbbbbb)<br>
+Email: bbbbbbbb
 
-`;
-}
-
-module.exports = generateREADME;

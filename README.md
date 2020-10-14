@@ -2,6 +2,8 @@
 
 # ReadMe_Author
 
+## Walkthrough Video: https://drive.google.com/file/d/1159YETFw3oMf5nip00yGIRt2WRLmImWC/view
+
 ## Table of Contents
 * [Description](#Description)
 * [Installation Instruction](#Installation-Instructions)
